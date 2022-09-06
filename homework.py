@@ -4,8 +4,7 @@ def my_print(func_name, *args):
     print(func_name, end=" ")
     for arg in args:
         print(arg, end=" ")
-    print("")
-
+    print()
 
 
 def open_browser(browser_name):
