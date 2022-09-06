@@ -7,7 +7,6 @@ def my_print(func_name, *args):
     print()
 
 
-
 def open_browser(browser_name):
     my_print(open_browser.__name__,  browser_name)
 
